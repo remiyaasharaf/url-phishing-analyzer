@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+tldextract
+python-Levenshtein
+pandas 
+scikit-learn
+joblib
